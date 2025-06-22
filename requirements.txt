@@ -1,0 +1,15 @@
+# Core Dependencies
+streamlit>=1.28.0
+openai  # Latest version for best performance and features
+
+# Document Processing
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+
+# PDF Generation
+reportlab>=4.0.4
+
+# Additional Dependencies (auto-installed with above packages)
+# - requests (for HTTP requests)
+# - typing-extensions (for type hints)
+# - pillow (for image processing in ReportLab) 
